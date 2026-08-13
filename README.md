@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=600&height=45&lines=%24+whoami;sweetvn+~+Nguyen+Quoc+Bao;Backend+Intern+%40+CUSC;Targeting+DevOps+%2F+Platform+Engineering;Arch+Linux+%7C+Neovim+%7C+Go+%7C+Kubernetes)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header&text=sweetvn04&fontSize=40&fontColor=000000&fontAlignY=35&animation=twinkling&desc=Nguyen%20Quoc%20Bao%20%7C%20Backend%20Intern%20%E2%86%92%20DevOps%20%2F%20Platform%20Engineer&descAlignY=60&descSize=14&descFontColor=000000)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=600&height=40&lines=%24+whoami;sweetvn+~+Nguyen+Quoc+Bao;Backend+Intern+%40+CUSC;Targeting+DevOps+%2F+Platform+Engineering;Arch+Linux+%7C+Neovim+%7C+Go+%7C+Kubernetes)](https://git.io/typing-svg)
 
 <br>
 
@@ -12,6 +14,8 @@
 
 <br>
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2&section=header)
+
 ```bash
 $ systemctl status sweetvn.service
 ```
@@ -22,8 +26,8 @@ $ systemctl status sweetvn.service
      Active: active (running) since 2004-01-01 00:00:00 UTC
        Docs: https://github.com/sweetvn04
    Main PID: 1337 (neovim)
-     Device: ASUS TUF Gaming F15 (i5-10300H · GTX 1650)
-     Memory: keyboard-driven, lazygit-powered, fish-shell-enhanced
+     Device: ASUS TUF Gaming F15 · i5-10300H · GTX 1650
+     Memory: keyboard-driven · lazygit-powered · fish-shell-enhanced
 
   [+] 🎓 Final-year CS student @ Can Tho University (CUSC)
   [+] 💼 Backend Intern @ CUSC Software Technology Center
@@ -34,6 +38,8 @@ $ systemctl status sweetvn.service
 ```
 
 <br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2&section=header)
 
 ```bash
 $ fastfetch --config minimalist.json
@@ -51,51 +57,44 @@ $ fastfetch --config minimalist.json
 
 <br>
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2&section=header)
+
 ```bash
 $ btop --section="skills"
 ```
 
 ```text
-SYS [████████████████████████████░░] 90%  Linux (Arch) · Bash · Fish Shell · systemd
+SYS [████████████████████████████░░] 90%  Linux (Arch) · Bash · Fish · systemd
 GOL [████████████████████████░░░░░░] 80%  Go — next major investment
-DOC [████████████████████████░░░░░░] 80%  Docker · Dockge · Container workflows
+DOC [████████████████████████░░░░░░] 80%  Docker · Dockge · containers
 TSN [████████████████████░░░░░░░░░░] 75%  TypeScript · Next.js · Drizzle ORM
-PYT [████████████████████░░░░░░░░░░] 70%  Python · TUI / scripting (Rich, Click)
+PYT [████████████████████░░░░░░░░░░] 70%  Python · TUI scripting (Rich)
 K8S [████████████████░░░░░░░░░░░░░░] 55%  Kubernetes · Terraform / IaC — learning
 GIT [████████████████████████████░░] 90%  Git · lazygit · multi-remote · CI/CD
 ```
 
 <br>
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2&section=header)
+
 ```bash
-$ cat ~/projects/active.json
+$ ls ~/projects/
 ```
 
-```text
-{
-  "G2B — App Report Designer": {
-    "role":    "Backend Intern @ CUSC",
-    "stack":   "Next.js · TypeScript · Drizzle ORM · MySQL",
-    "team":    "5 devs (2 backend / 3 frontend)",
-    "infra":   "GitLab (internal) + Gitea (self-hosted via Tailscale) · Gitea Actions CI/CD"
-  },
-  "Hoshino — Zalo AI Bot": {
-    "stack":   "Node.js · zca-js · Gemini API",
-    "host":    "sweetvn2004.id.vn",
-    "roadmap": "Zalo backup/client system (core / cli / mobile split)"
-  },
-  "lazycat — Docker Compose TUI": {
-    "stack":   "Python · Rich · Conventional Commits",
-    "type":    "Personal CLI tool for Docker Compose management"
-  },
-  "Homelab": {
-    "stack":   "Docker · Gitea · Ollama · AnythingLLM · Nginx PM · Tailscale · CF DDNS",
-    "status":  "Running (setup details fuzzy — last touched a while ago)"
-  }
-}
-```
+<div align="center">
+
+| Project | Stack | Description |
+|---|---|---|
+| **G2B — App Report Designer** | `Next.js` `TypeScript` `Drizzle ORM` `MySQL` | Dynamic form/report designer @ CUSC. Team of 5, GitLab + self-hosted Gitea via Tailscale, Gitea Actions CI/CD |
+| **Hoshino — Zalo AI Bot** | `Node.js` `zca-js` `Gemini API` | Personal Zalo AI bot hosted at sweetvn2004.id.vn. Planned: Zalo backup/client system (core/cli/mobile) |
+| **lazycat** | `Python` `Rich` | Personal TUI Docker Compose manager with Conventional Commits |
+| **Homelab** | `Docker` `Gitea` `Ollama` `Nginx PM` `Tailscale` | Self-hosted services with Cloudflare DDNS + VPN tunneling |
+
+</div>
 
 <br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2&section=header)
 
 ```bash
 $ ls -la ./stack
@@ -108,6 +107,8 @@ $ ls -la ./stack
 </div>
 
 <br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2&section=header)
 
 ```bash
 $ ./fetch-github-telemetry.sh --stats
@@ -126,6 +127,8 @@ $ ./fetch-github-telemetry.sh --stats
 
 <br>
 
+![divider](https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2&section=header)
+
 ```bash
 $ ./contribution-graph.sh --animate
 ```
@@ -134,15 +137,7 @@ $ ./contribution-graph.sh --animate
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sweetvn04&bg_color=0d1117&color=00FF66&line=00FF66&point=ffffff&area=true&area_color=003300&hide_border=true)](https://github.com/sweetvn04)
 
-</div>
-
 <br>
-
-```bash
-$ ./contribution-snake.sh --watch
-```
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake-dark.svg" />
@@ -153,6 +148,8 @@ $ ./contribution-snake.sh --watch
 </div>
 
 <br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2&section=header)
 
 ```bash
 $ fortune | cowsay -f tux
@@ -165,6 +162,8 @@ $ fortune | cowsay -f tux
 </div>
 
 <br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2&section=header)
 
 ```bash
 $ cat ~/.config/socials
@@ -192,3 +191,5 @@ $ cat ~/.config/socials
 ![cursor](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=20&height=25&lines=%E2%96%88)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=100&section=footer)
