@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-┌──(sweetvn㉿arch)-[~]
-└─$ whoami
-```
-
-# sweetvn
-
-`Computer Science Student` · `Backend Intern @ CUSC` · `Aspiring DevOps Engineer`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF00&background=00000000&center=true&vCenter=true&width=440&lines=%24+whoami;sweetvn+~+nguyen+quoc+bao;Computer+Science+Student;Backend+Intern+%40+CUSC;Aspiring+DevOps+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -58,6 +51,18 @@ $ ls -la ./stack
 <br>
 
 ```bash
+$ ./contribution-graph.sh --animate
+```
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br>
+
+```bash
 $ cat contact.txt
 ```
 
@@ -70,7 +75,13 @@ $ cat contact.txt
 
 <br>
 
+<div align="center">
+
 ```
 ┌──(sweetvn㉿arch)-[~]
-└─$ █
+└─$ 
 ```
+
+![cursor](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=20&height=30&lines=%E2%96%88)
+
+</div>
