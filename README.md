@@ -1,26 +1,25 @@
-<img src="gif/mlhlvdchlg1c1.gif" align="middle" alt="Banner" width="100%"/>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header&text=sweetvn04&fontSize=40&fontColor=000000&fontAlignY=35&animation=twinkling&desc=Nguyen%20Quoc%20Bao%20%7C%20Backend%20Intern%20%E2%86%92%20DevOps%20%2F%20Platform%20Engineer&descAlignY=60&descSize=14&descFontColor=000000)
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
-<div align="center">
-  🔥
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FF66&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+sweetvn+%E2%80%94+Nguyen+Quoc+Bao!;Backend+Intern+%40+CUSC+%7C+Aspiring+DevOps+Engineer;Arch+Linux+%7C+Neovim+%7C+Go+%7C+Kubernetes" alt="Typing SVG" width="90%" align="middle"/>
-  🔥
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00FF66&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+sweetvn+%E2%80%94+Nguyen+Quoc+Bao!;Backend+Intern+%40+CUSC+%7C+Aspiring+DevOps+Engineer;Arch+Linux+%7C+Neovim+%7C+Go+%7C+Kubernetes)](https://git.io/typing-svg)
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
 
-<img src="gif/c1fc9d7f6ae08d56f2b84e81799790a5.gif" width="100%" alt="section"/>
+<br>
 
-<div align="center">
 <p style="font-size: medium"><b>Profile Views</b></p>
-<img src="https://komarev.com/ghpvc/?username=sweetvn04" alt="GitHub profile views" />
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=sweetvn04&style=flat-square&color=00FF66&label=profile+views" alt="GitHub profile views" />
+&nbsp;&nbsp;
 <a href="https://github.com/sweetvn04" target="_blank">
-  <img src="https://img.shields.io/github/followers/sweetvn04?label=Follow&style=social" alt="Follow me on GitHub" />
+  <img src="https://img.shields.io/github/followers/sweetvn04?label=followers&style=flat-square&color=00FF66&labelColor=000000&logo=github" alt="Follow me on GitHub" />
 </a>
-<br>
-</div>
-<br>
-<div align="center">
+
+<br><br>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <picture>
@@ -29,17 +28,16 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
 </div>
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
 
-<div align="center"> 🔥
-🔥
-  <h2> 😎 About Me </h2><br>
-<br>
+<div align="center">
+  <h2> 🔥 About Me 🔥 </h2>
 </div>
 
-<img align="right" src="gif/yae-miko-pixel-art_800.gif" height="320px" alt="pixel art"/>
 <p style="animation: fadein 2s; font-size: medium; text-align: left">
 
 Hello! 👋 I'm <strong>Nguyen Quoc Bao</strong>, a final-year Computer Science student at Can Tho University (CUSC), currently working as a Backend Intern at CUSC's Software Technology Center. My heart is in DevOps and Platform Engineering — I love owning systems end-to-end, from bare metal to CI/CD.<br><br>
@@ -57,51 +55,46 @@ Hello! 👋 I'm <strong>Nguyen Quoc Bao</strong>, a final-year Computer Science 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
+
 <div align="center">
-  🔥
-  🔥
-  <h2> 🐱 My Companions </h2><br>
-<br>
-<a href="https://github.com/sweetvn04">
-  <img src="https://render.gitanimals.org/lines/sweetvn04" width="800" height="300"/>
-</a>
+  <h2> 🐱 My Companions 🐱 </h2>
+  <br>
+  <a href="https://github.com/sweetvn04">
+    <img src="https://render.gitanimals.org/lines/sweetvn04" width="800" height="300"/>
+  </a>
 </div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
 
 <br>
+
 <div align="center">
-
-  🔥
-  🔥
-  <h2> 🧑‍💻 Technology Stack </h2><br>
-<br>
-
+  <h2> 🧑‍💻 Technology Stack </h2>
+  <br>
 
 ![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,go,python,docker,kubernetes,neovim,ts,nextjs,mysql,nginx,githubactions,tailscale&perline=15)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
-
 </div>
 
-
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
 
 <div align="center">
-🔥
-🔥
-  <h2> 📊 GitHub Analytics </h2><br>
-
+  <h2> 📊 GitHub Analytics </h2>
+  <br>
 
 <p style="animation: fadein 2s;">
-  <br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sweetvn04&theme=tokyonight"
-     alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sweetvn04&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
-  <div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=sweetvn04&theme=tokyonight" alt="GitHub Streak" /></a>
 
-  </div>
-  <br>
+<div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=sweetvn04&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=sweetvn04&show_icons=true&theme=tokyonight&count_private=true"
@@ -127,36 +120,26 @@ Hello! 👋 I'm <strong>Nguyen Quoc Bao</strong>, a final-year Computer Science 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweetvn04&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
 </picture>
 
-<br/>
-
-
-</div> 
-
-<div align="center">
+<br/><br>
 
 [![sweetvn04's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sweetvn04&bg_color=1a1b27&color=00FF66&line=00cc55&point=ffffff&area=true&hide_border=true)](https://github.com/sweetvn04/)
 
 </div>
 
+<br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
 
-
 <div align="center">
-  🔥
-  🔥
-
   <h2> 💡 Daily Inspiration </h2>
-<p style="animation: fadein 2s;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+  <p style="animation: fadein 2s;">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  </p>
 </div>
+
 <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
-
-  🔥
-  🔥
-
   <h2> 📬 Connect With Me </h2>
   <br>
 
@@ -171,16 +154,11 @@ Hello! 👋 I'm <strong>Nguyen Quoc Bao</strong>, a final-year Computer Science 
   <a href="https://sweetvn2004.id.vn">
     <img src="https://img.shields.io/badge/Website-sweetvn2004.id.vn-000000?style=for-the-badge&logo=firefox&logoColor=00FF66" alt="Website">
   </a>
-
-  </div>
-<br>
+</div>
 
 <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
 
 <div align="center">
-
-<img src="gif/bpxxqqvps4h91.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=100&section=footer" width="100%" alt="footer" />
 </div>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
