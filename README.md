@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Matrix_Digital_rain_banner.gif" width="100%">
@@ -17,8 +19,8 @@ $ cat about.md
 <table>
 <tr><td>
 
-- 🎓 Final-year CS student @ Can Tho University (CUSC)
-- 💼 Backend developer intern, building a dynamic form/report designer platform
+- 🎓 Final-year CS student @ Can Tho University of Technology
+- 💼 Backend developer, System admin.
 - 🐧 Daily driver: Arch Linux + Niri (Wayland) + fish + Neovim(LazyVim)
 - 🏠 Runs a self-hosted homelab: Docker, Gitea, Tailscale, Nginx Proxy Manager
 - 🎯 Leaning toward DevOps / Platform Engineering — Kubernetes, IaC, Go next
@@ -27,6 +29,19 @@ $ cat about.md
 </table>
 
 </div>
+
+
+```bash
+$ ./contribution-graph.sh --animate --theme=dark
+```
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br>
 
 <br>
 
@@ -45,18 +60,6 @@ $ ls -la ./stack
 ![Tailscale](https://img.shields.io/badge/-Tailscale-0D1117?style=for-the-badge&logo=tailscale&logoColor=39FF14)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14)
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=39FF14)
-
-</div>
-
-<br>
-
-```bash
-$ ./contribution-graph.sh --animate --theme=dark
-```
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
