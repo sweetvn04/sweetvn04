@@ -1,156 +1,112 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=120&section=header&text=sweetvn04&fontSize=40&fontColor=000000&fontAlignY=35&animation=twinkling&desc=Nguyen%20Quoc%20Bao%20%7C%20Backend%20Intern%20%E2%86%92%20DevOps%20%2F%20Platform%20Engineer&descAlignY=60&descSize=14&descFontColor=000000)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=650&height=45&lines=root%40sweetvn%3A~%23+id;uid%3D0(root)+gid%3D0(root)+groups%3D0(root)%2Cwheel%2Cdocker%2Cdevops;sweetvn+~+Nguyen+Quoc+Bao+%5BBackend+Intern+%40+CUSC%5D;Targeting+DevOps+%26+Platform+Engineering)](https://git.io/typing-svg)
 
-<br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
+```bash
+# systemctl status sweetvn.service --no-pager
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00FF66&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+sweetvn+%E2%80%94+Nguyen+Quoc+Bao!;Backend+Intern+%40+CUSC+%7C+Aspiring+DevOps+Engineer;Arch+Linux+%7C+Neovim+%7C+Go+%7C+Kubernetes)](https://git.io/typing-svg)
+```text
+● sweetvn.service - Nguyen Quoc Bao [Backend Intern → Platform / DevOps]
+     Loaded: loaded (/etc/systemd/system/sweetvn.service; enabled; vendor preset: enabled)
+     Active: active (running) since 2004-01-01 00:00:00 UTC
+       Docs: https://sweetvn2004.id.vn
+             https://github.com/sweetvn04
+   Main PID: 1337 (neovim)
+      Tasks: 42 (limit: 4915)
+     Memory: 16.0G (Arch Linux · Btrfs · Wayland/Niri · LazyVim)
+        CPU: 100% focused on Go, Kubernetes & Infrastructure as Code
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
+  [+] Final-year CS Student @ Can Tho University (CUSC)
+  [+] Backend Developer Intern @ CUSC Software Technology Center
+  [+] Focus: DevOps · SysAdmin & Network Security · Platform Engineering
+  [+] Dotfiles & Arch built from scratch (Btrfs subvolumes, Wayland/Niri, LazyVim)
+  [+] Personal Homelab (Docker, Gitea, Ollama, Nginx PM, Tailscale, Cloudflare DDNS)
+```
 
-<br>
+```bash
+# cat /proc/sys/skills
+```
 
-<p style="font-size: medium"><b>Profile Views</b></p>
-<img src="https://komarev.com/ghpvc/?username=sweetvn04&style=flat-square&color=00FF66&label=profile+views" alt="GitHub profile views" />
-&nbsp;&nbsp;
-<a href="https://github.com/sweetvn04" target="_blank">
-  <img src="https://img.shields.io/github/followers/sweetvn04?label=followers&style=flat-square&color=00FF66&labelColor=000000&logo=github" alt="Follow me on GitHub" />
-</a>
+```text
+[SYS]  ████████████████████████████░░  90%  Arch Linux · Bash · Fish · systemd
+[GIT]  ████████████████████████████░░  90%  Git · lazygit · multi-remote · CI/CD
+[DOC]  ████████████████████████░░░░░░  80%  Docker · Dockge · Containerization
+[GOL]  ████████████████████████░░░░░░  80%  Go (Golang) · Backend Services
+[TSN]  ████████████████████░░░░░░░░░░  75%  TypeScript · Next.js · Drizzle ORM
+[PYT]  ████████████████████░░░░░░░░░░  70%  Python · TUI Tools (Rich) · Automation
+[K8S]  ████████████████░░░░░░░░░░░░░░  55%  Kubernetes · Terraform / IaC (Learning)
+```
+
+```bash
+# tree -L 2 /srv/projects/
+```
+
+```text
+/srv/projects/
+├── g2b-report-designer/    [Next.js · TypeScript · Drizzle · MySQL · Gitea CI/CD]
+├── hoshino-zalo-bot/       [Node.js · zca-js · Gemini API · sweetvn2004.id.vn]
+├── lazycat-tui/            [Python · Rich TUI · Docker Compose Manager]
+└── homelab-infra/          [Docker · Gitea · Ollama · Nginx PM · Tailscale]
+```
+
+```bash
+# ./telemetry.sh --stats
+```
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=sweetvn04&theme=matrix&hide_border=true" width="48%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sweetvn04&theme=matrix&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
 
 <br><br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetvn04&theme=matrix&hide_border=true&layout=compact" width="45%" alt="Top Languages" />
+
+<br><br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sweetvn04&bg_color=0d1117&color=00FF66&line=00FF66&point=ffffff&area=true&area_color=002200&hide_border=true)](https://github.com/sweetvn04)
 
 </div>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
+```bash
+# ./render-grid.sh
+```
 
 <div align="center">
-  <h2> 🔥 About Me 🔥 </h2>
-</div>
-
-<p style="animation: fadein 2s; font-size: medium; text-align: left">
-
-Hello! 👋 I'm <strong>Nguyen Quoc Bao</strong>, a final-year Computer Science student at Can Tho University (CUSC), currently working as a Backend Intern at CUSC's Software Technology Center. My heart is in DevOps and Platform Engineering — I love owning systems end-to-end, from bare metal to CI/CD.<br><br>
-
-- 🚀 <strong>Builder:</strong> Currently building a dynamic form/report designer platform (G2B) using Next.js, TypeScript, Drizzle ORM & MySQL. Multi-remote Git workflow with internal GitLab + self-hosted Gitea via Tailscale.<br>
-
-- 🤖 <strong>AI & Bots:</strong> Created <strong>Hoshino</strong> — a personal Zalo AI bot powered by Node.js + Gemini API, hosted at <a href="https://sweetvn2004.id.vn">sweetvn2004.id.vn</a>. Planning to extend into a full Zalo backup/client system.<br>
-
-- 🐧 <strong>Linux Enthusiast:</strong> Daily-driving Arch Linux with Niri (Wayland), fish shell, kitty, and Neovim/LazyVim. Built my entire setup from scratch: Btrfs subvolumes, systemd-boot, nvidia-open, Waybar, snapper.<br>
-
-- 🖥️ <strong>Homelab:</strong> Self-host Gitea, Ollama, AnythingLLM, Nginx Proxy Manager, and Tailscale VPN on my personal server with Cloudflare DDNS.<br>
-
-- 📬 <strong>Let's Connect:</strong> Open to DevOps/SysAdmin opportunities and infrastructure discussions. Reach me at <a href="mailto:3flowers2004@gmail.com">3flowers2004@gmail.com</a>.<br>
-
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
-
-<br>
-
-<div align="center">
-  <h2> 🧑‍💻 Technology Stack </h2>
-  <br>
-
-![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,go,python,docker,kubernetes,neovim,ts,nextjs,mysql,nginx,githubactions,tailscale&perline=15)
-
-</div>
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
-
-<div align="center">
-  <h2> 📊 GitHub Analytics </h2>
-  <br>
-
-<p style="animation: fadein 2s;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sweetvn04&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-
-<div>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=sweetvn04&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br>
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sweetvn04&show_icons=true&theme=tokyonight&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=sweetvn04&show_icons=true&theme=tokyonight&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=sweetvn04&show_icons=true&theme=tokyonight&count_private=true" />
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetvn04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    media="(prefers-color-scheme: dark)"
-    width="36%"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetvn04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="36%"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweetvn04&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sweetvn04/sweetvn04/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br/><br>
+</div>
 
-[![sweetvn04's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sweetvn04&bg_color=1a1b27&color=00FF66&line=00cc55&point=ffffff&area=true&hide_border=true)](https://github.com/sweetvn04/)
+```bash
+# ss -tulpn | grep LISTEN
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/MAIL-3flowers2004%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=00FF66)](mailto:3flowers2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-sweetvn04-000000?style=flat-square&logo=github&logoColor=00FF66)](https://github.com/sweetvn04)
+[![Host](https://img.shields.io/badge/HOST-sweetvn2004.id.vn-000000?style=flat-square&logo=archlinux&logoColor=00FF66)](https://sweetvn2004.id.vn)
+[![Hits](https://komarev.com/ghpvc/?username=sweetvn04&style=flat-square&color=00FF66&labelColor=000000&label=HITS)](https://github.com/sweetvn04)
 
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
 
 <div align="center">
-  <h2> 💡 Daily Inspiration </h2>
-  <p style="animation: fadein 2s;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  </p>
-</div>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
+```text
+root@sweetvn:~# logout
+Connection to sweetvn closed.
+```
 
-<div align="center">
-  <h2> 📬 Connect With Me </h2>
-  <br>
+![cursor](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=20&height=25&lines=%E2%96%88)
 
-  <a href="mailto:3flowers2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-3flowers2004%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF66" alt="Email">
-  </a>
-  &nbsp;
-  <a href="https://github.com/sweetvn04">
-    <img src="https://img.shields.io/badge/GitHub-sweetvn04-000000?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub">
-  </a>
-  &nbsp;
-  <a href="https://sweetvn2004.id.vn">
-    <img src="https://img.shields.io/badge/Website-sweetvn2004.id.vn-000000?style=for-the-badge&logo=firefox&logoColor=00FF66" alt="Website">
-  </a>
-</div>
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=100&section=footer" width="100%" alt="footer" />
 </div>
