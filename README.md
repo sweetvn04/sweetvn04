@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=cylinder&color=0:00FF66,100:003311&height=160&section=header&text=SWEETVN%20//%20LV.21&fontSize=42&fontColor=000000&animation=twinkling&desc=BACKEND%20DEVELOPER%20%E2%86%92%20DEVOPS%20%2F%20PLATFORM%20ENGINEER&descAlignY=62&descSize=15&descFontColor=000000)
+[![Header](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2800&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=750&height=40&lines=SWEETVN+%2F%2F+LV.21+%5BNGUYEN+QUOC+BAO%5D;CLASS%3A+BACKEND+DEV+%E2%86%92+DEVOPS+ENGINEER;CURRENT+STAGE%3A+CUSC+FINAL+YEAR+%2B+INTERN)](https://git.io/typing-svg)
 
 <br>
 
-![Score](https://komarev.com/ghpvc/?username=sweetvn04&style=for-the-badge&color=00FF66&labelColor=000000&label=SCORE)
+![Score](https://komarev.com/ghpvc/?username=sweetvn04&style=flat-square&color=00FF66&labelColor=000000&label=SCORE)
 &nbsp;&nbsp;
-[![Party](https://img.shields.io/github/followers/sweetvn04?label=PARTY+MEMBERS&style=for-the-badge&color=00FF66&labelColor=000000&logo=github)](https://github.com/sweetvn04)
+[![Followers](https://img.shields.io/github/followers/sweetvn04?label=PARTY+MEMBERS&style=flat-square&color=00FF66&labelColor=000000&logo=github)](https://github.com/sweetvn04)
 
 <br><br>
 
@@ -82,14 +82,14 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/CO--OP-3flowers2004%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF66)](mailto:3flowers2004@gmail.com)
+[![Email](https://img.shields.io/badge/CO--OP-3flowers2004%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=00FF66)](mailto:3flowers2004@gmail.com)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GUILD-sweetvn04-000000?style=for-the-badge&logo=github&logoColor=00FF66)](https://github.com/sweetvn04)
+[![GitHub](https://img.shields.io/badge/GUILD-sweetvn04-000000?style=flat-square&logo=github&logoColor=00FF66)](https://github.com/sweetvn04)
 &nbsp;&nbsp;
-[![Web](https://img.shields.io/badge/REALM-sweetvn2004.id.vn-000000?style=for-the-badge&logo=firefox&logoColor=00FF66)](https://sweetvn2004.id.vn)
+[![Web](https://img.shields.io/badge/REALM-sweetvn2004.id.vn-000000?style=flat-square&logo=firefox&logoColor=00FF66)](https://sweetvn2004.id.vn)
 
 <br><br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:003311&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="line"/>
 
 </div>
