@@ -56,14 +56,6 @@ Hello! 👋 I'm <strong>Nguyen Quoc Bao</strong>, a final-year Computer Science 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
 
-<div align="center">
-  <h2> 🐱 My Companions 🐱 </h2>
-  <br>
-  <a href="https://github.com/sweetvn04">
-    <img src="https://render.gitanimals.org/lines/sweetvn04" width="800" height="300"/>
-  </a>
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3" width="100%" alt="marginline"/>
 
 <br>
