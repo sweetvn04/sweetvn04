@@ -1,85 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 90" width="100%" height="90">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=Fira+Code:wght@500;700&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=Fira+Code:wght@600;700&amp;display=swap');
 
       .bg {
-        fill: #0d1117;
+        fill: #080c10;
         stroke: #00ff66;
-        stroke-width: 1.5;
+        stroke-width: 2;
         rx: 8px;
+        filter: drop-shadow(0 0 8px rgba(0, 255, 102, 0.35));
       }
 
-      .glitch-title {
+      /* Heavy glowing glitch text */
+      .glitch-base {
         font-family: 'Press Start 2P', monospace;
         font-size: 16px;
         fill: #00ff66;
         font-weight: bold;
-        animation: glitch-anim 3.5s infinite;
-        letter-spacing: 1px;
+        filter: drop-shadow(0 0 10px #00ff66) drop-shadow(0 0 20px rgba(0, 255, 102, 0.8));
+        animation: glitch-anim 2.2s infinite alternate;
+      }
+
+      .glitch-red {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 16px;
+        fill: #ff0055;
+        font-weight: bold;
+        opacity: 0.8;
+        animation: glitch-red-anim 2.2s infinite alternate;
+      }
+
+      .glitch-cyan {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 16px;
+        fill: #00f0ff;
+        font-weight: bold;
+        opacity: 0.8;
+        animation: glitch-cyan-anim 2.2s infinite alternate;
       }
 
       .subtitle {
         font-family: 'Fira Code', monospace;
-        font-size: 12px;
-        fill: #8b949e;
+        font-size: 12.5px;
+        fill: #a2adb8;
         letter-spacing: 0.5px;
       }
 
       .highlight {
         fill: #00f0ff;
-        font-weight: bold;
+        font-weight: 700;
+        filter: drop-shadow(0 0 5px rgba(0, 240, 255, 0.7));
       }
 
       .corner {
         stroke: #00ff66;
-        stroke-width: 3;
+        stroke-width: 3.5;
         fill: none;
+        filter: drop-shadow(0 0 6px #00ff66);
       }
 
+      /* Glitch Animations */
       @keyframes glitch-anim {
-        0%, 88%, 100% {
-          transform: translate(0);
-          filter: none;
-        }
-        89% {
-          transform: translate(-2px, 1px);
-          filter: drop-shadow(-2px 0 #ff0055) drop-shadow(2px 0 #00ffff);
-        }
-        91% {
-          transform: translate(2px, -1px);
-          filter: drop-shadow(2px 0 #ff0055) drop-shadow(-2px 0 #00ff66);
-        }
-        93% {
-          transform: translate(-1px, -1px);
-          filter: drop-shadow(-1px 0 #00ffff) drop-shadow(1px 0 #ff0055);
-        }
-        95% {
-          transform: translate(0);
-          filter: none;
-        }
-        97% {
-          transform: translate(1px, 1px);
-          filter: drop-shadow(1px 0 #ff0055) drop-shadow(-1px 0 #00ffff);
-        }
+        0%, 75% { transform: translate(0, 0); }
+        76% { transform: translate(-3px, 1px); }
+        78% { transform: translate(3px, -1px); }
+        80% { transform: translate(-1px, 2px); }
+        82% { transform: translate(2px, -2px); }
+        84% { transform: translate(0, 0); }
+        92% { transform: translate(-2px, 0); }
+        94% { transform: translate(0, 0); }
+      }
+
+      @keyframes glitch-red-anim {
+        0%, 74% { transform: translate(0, 0); opacity: 0; }
+        75% { transform: translate(-5px, -1px); opacity: 0.9; }
+        78% { transform: translate(4px, 2px); opacity: 0.8; }
+        80% { transform: translate(-3px, -2px); opacity: 0.9; }
+        82% { transform: translate(0, 0); opacity: 0; }
+        92% { transform: translate(4px, 1px); opacity: 0.85; }
+        94% { transform: translate(0, 0); opacity: 0; }
+      }
+
+      @keyframes glitch-cyan-anim {
+        0%, 74% { transform: translate(0, 0); opacity: 0; }
+        76% { transform: translate(4px, 2px); opacity: 0.9; }
+        78% { transform: translate(-4px, -1px); opacity: 0.8; }
+        80% { transform: translate(3px, 1px); opacity: 0.9; }
+        82% { transform: translate(0, 0); opacity: 0; }
+        92% { transform: translate(-3px, -1px); opacity: 0.85; }
+        94% { transform: translate(0, 0); opacity: 0; }
       }
     </style>
   </defs>
 
-  <!-- Background Box -->
-  <rect x="2" y="2" width="796" height="86" class="bg" />
+  <!-- Background Box with Glowing Border -->
+  <rect x="3" y="3" width="794" height="94" class="bg" />
 
-  <!-- Corner Accents -->
-  <path d="M 2 20 L 2 2 L 20 2" class="corner" />
-  <path d="M 780 2 L 798 2 L 798 20" class="corner" />
-  <path d="M 2 70 L 2 88 L 20 88" class="corner" />
-  <path d="M 780 88 L 798 88 L 798 70" class="corner" />
+  <!-- Corner Cyber Brackets -->
+  <path d="M 3 24 L 3 3 L 24 3" class="corner" />
+  <path d="M 776 3 L 797 3 L 797 24" class="corner" />
+  <path d="M 3 76 L 3 97 L 24 97" class="corner" />
+  <path d="M 776 97 L 797 97 L 797 76" class="corner" />
 
-  <!-- Content -->
+  <!-- Chromatic Glitch Layers -->
   <g text-anchor="middle">
-    <text x="400" y="40" class="glitch-title">SWEETVN // LV.21 [NGUYEN QUOC BAO]</text>
-    <text x="400" y="65" class="subtitle">
-      CLASS: <tspan class="highlight">BACKEND DEV</tspan> → <tspan class="highlight">DEVOPS / PLATFORM ENGINEER</tspan> • STAGE: <tspan fill="#e6edf3">CUSC SENIOR</tspan>
+    <!-- RGB split layers -->
+    <text x="400" y="44" class="glitch-red">SWEETVN // LV.21 [NGUYEN QUOC BAO]</text>
+    <text x="400" y="44" class="glitch-cyan">SWEETVN // LV.21 [NGUYEN QUOC BAO]</text>
+    <!-- Base Glowing Text -->
+    <text x="400" y="44" class="glitch-base">SWEETVN // LV.21 [NGUYEN QUOC BAO]</text>
+
+    <!-- Subtitle -->
+    <text x="400" y="73" class="subtitle">
+      CLASS: <tspan class="highlight">BACKEND DEV</tspan> → <tspan class="highlight">DEVOPS / PLATFORM ENGINEER</tspan> • STAGE: <tspan fill="#ffffff" font-weight="700">CUSC SENIOR</tspan>
     </text>
   </g>
 </svg>

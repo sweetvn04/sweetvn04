@@ -10,6 +10,11 @@
 
 <br><br>
 
+<!-- LIVE TERMINAL PROMPT (TYPING ANIMATION) -->
+[![Live Status](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2600&pause=900&color=00FF66&background=00000000&center=true&vCenter=true&width=750&height=35&lines=%24+sweetvn+--status%3A+Compiling+Go+services+%26+Kubernetes+manifests...;%24+active%3A+Backend+Intern+%40+CUSC+%5BG2B+Dynamic+Report+Designer%5D;%24+homelab%3A+Nodes+healthy+%7C+Tailscale+mesh+active+%7C+Docker;%24+next-goal%3A+Platform+Engineering+%26+Linux+Security)](https://git.io/typing-svg)
+
+<br>
+
 <!-- PLAYER STATUS HUD -->
 <img src="assets/player_status.svg" width="100%" alt="Player Status HUD" />
 
@@ -76,6 +81,13 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2" width="100%" alt="line"/>
+<!-- TERMINAL FOOTER WITH TYPING CURSOR -->
+```text
+┌──(sweetvn㉿arch)-[~]
+└─$ exit
+[Process completed - 0 errors, ready for next quest]
+```
+
+![cursor](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=20&height=25&lines=%E2%96%88)
 
 </div>
