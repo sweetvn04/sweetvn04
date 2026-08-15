@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 175" width="100%" height="175">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=Fira+Code:wght@400;600;700&amp;display=swap');
+
+      .bg {
+        fill: #0d1117;
+        stroke: #ffdf00;
+        stroke-width: 1.5;
+        rx: 6px;
+      }
+
+      .card-header {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 11px;
+        fill: #ffdf00;
+        animation: glitch-gold 4.5s infinite;
+        letter-spacing: 1px;
+      }
+
+      .gear-tag {
+        font-family: 'Fira Code', monospace;
+        font-size: 12.5px;
+        fill: #ffdf00;
+        font-weight: 700;
+      }
+
+      .gear-val {
+        font-family: 'Fira Code', monospace;
+        font-size: 12.5px;
+        fill: #c9d1d9;
+        font-weight: 400;
+      }
+
+      .gear-highlight {
+        fill: #00f0ff;
+        font-weight: 600;
+      }
+
+      .corner {
+        stroke: #ffdf00;
+        stroke-width: 3;
+        fill: none;
+      }
+
+      .divider {
+        stroke: #21262d;
+        stroke-width: 1;
+        stroke-dasharray: 4 4;
+      }
+
+      @keyframes glitch-gold {
+        0%, 89%, 100% {
+          transform: translate(0);
+          filter: none;
+        }
+        90% {
+          transform: translate(-2px, 1px);
+          filter: drop-shadow(-2px 0 #ff0055) drop-shadow(2px 0 #00f0ff);
+        }
+        92% {
+          transform: translate(2px, -1px);
+          filter: drop-shadow(2px 0 #ff0055) drop-shadow(-2px 0 #00ff66);
+        }
+        94% {
+          transform: translate(0);
+          filter: none;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="796" height="171" class="bg" />
+
+  <!-- Corner Brackets -->
+  <path d="M 2 16 L 2 2 L 16 2" class="corner" />
+  <path d="M 784 2 L 798 2 L 798 16" class="corner" />
+  <path d="M 2 159 L 2 173 L 16 173" class="corner" />
+  <path d="M 784 173 L 798 173 L 798 159" class="corner" />
+
+  <!-- Header -->
+  <text x="25" y="28" class="card-header">🛡️ EQUIPPED LOADOUT &amp; RIG SPECS</text>
+  <line x1="20" y1="38" x2="780" y2="38" class="divider" />
+
+  <!-- Content Rows -->
+  <g transform="translate(25, 58)">
+    <!-- Row 1 -->
+    <text x="0" y="0">
+      <tspan class="gear-tag">[WEAPON  ] </tspan>
+      <tspan class="gear-val">Neovim (LazyVim Lua Config) · </tspan>
+      <tspan class="gear-highlight">Kitty TTY + Fish Shell</tspan>
+    </text>
+
+    <!-- Row 2 -->
+    <text x="0" y="26">
+      <tspan class="gear-tag">[OS CORE ] </tspan>
+      <tspan class="gear-val">Arch Linux (Built from scratch: Btrfs subvolumes · </tspan>
+      <tspan class="gear-highlight">Niri Wayland</tspan>
+      <tspan class="gear-val"> · Snapper)</tspan>
+    </text>
+
+    <!-- Row 3 -->
+    <text x="0" y="52">
+      <tspan class="gear-tag">[RIG SPEC] </tspan>
+      <tspan class="gear-val">ASUS TUF Gaming F15 (Intel i5-10300H · GeForce GTX 1650 · 16GB RAM)</tspan>
+    </text>
+
+    <!-- Row 4 -->
+    <text x="0" y="78">
+      <tspan class="gear-tag">[UPTIME  ] </tspan>
+      <tspan class="gear-val">100% Online · Systemd-boot · Kernel Active · Keyboard-Driven Workflow</tspan>
+    </text>
+  </g>
+</svg>

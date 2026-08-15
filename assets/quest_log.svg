@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 195" width="100%" height="195">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=Fira+Code:wght@400;600;700&amp;display=swap');
+
+      .bg {
+        fill: #0d1117;
+        stroke: #00f0ff;
+        stroke-width: 1.5;
+        rx: 6px;
+      }
+
+      .card-header {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 11px;
+        fill: #00f0ff;
+        animation: glitch-cyan 4.2s infinite;
+        letter-spacing: 1px;
+      }
+
+      .quest-tag {
+        font-family: 'Fira Code', monospace;
+        font-size: 12.5px;
+        fill: #00f0ff;
+        font-weight: 700;
+      }
+
+      .quest-title {
+        font-family: 'Fira Code', monospace;
+        font-size: 12.5px;
+        fill: #ffffff;
+        font-weight: 600;
+      }
+
+      .quest-desc {
+        font-family: 'Fira Code', monospace;
+        font-size: 11.5px;
+        fill: #8b949e;
+      }
+
+      .corner {
+        stroke: #00f0ff;
+        stroke-width: 3;
+        fill: none;
+      }
+
+      .divider {
+        stroke: #21262d;
+        stroke-width: 1;
+        stroke-dasharray: 4 4;
+      }
+
+      @keyframes glitch-cyan {
+        0%, 87%, 100% {
+          transform: translate(0);
+          filter: none;
+        }
+        88% {
+          transform: translate(-2px, 0);
+          filter: drop-shadow(-2px 0 #ff0055) drop-shadow(2px 0 #00ff66);
+        }
+        90% {
+          transform: translate(2px, -1px);
+          filter: drop-shadow(2px 0 #ff0055) drop-shadow(-2px 0 #00f0ff);
+        }
+        92% {
+          transform: translate(0);
+          filter: none;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="796" height="191" class="bg" />
+
+  <!-- Corner Brackets -->
+  <path d="M 2 16 L 2 2 L 16 2" class="corner" />
+  <path d="M 784 2 L 798 2 L 798 16" class="corner" />
+  <path d="M 2 179 L 2 193 L 16 193" class="corner" />
+  <path d="M 784 193 L 798 193 L 798 179" class="corner" />
+
+  <!-- Header -->
+  <text x="25" y="28" class="card-header">⚔️ ACTIVE QUEST LOG // MISSIONS</text>
+  <line x1="20" y1="38" x2="780" y2="38" class="divider" />
+
+  <!-- Content Rows -->
+  <g transform="translate(25, 58)">
+    <!-- Quest 1 -->
+    <text x="0" y="0">
+      <tspan class="quest-tag">[★ MAIN QUEST] </tspan>
+      <tspan class="quest-title">G2B Dynamic Report &amp; Form Designer Platform</tspan>
+    </text>
+    <text x="20" y="18" class="quest-desc">Role: Backend Intern @ CUSC • Stack: Next.js · TypeScript · Drizzle ORM · MySQL · Gitea CI/CD</text>
+
+    <!-- Quest 2 -->
+    <text x="0" y="44">
+      <tspan class="quest-tag">[✦ SIDE QUEST] </tspan>
+      <tspan class="quest-title">Hoshino — Autonomous Zalo AI Companion</tspan>
+    </text>
+    <text x="20" y="62" class="quest-desc">Host: sweetvn2004.id.vn • Stack: Node.js · zca-js · Gemini API (Modular client roadmap)</text>
+
+    <!-- Quest 3 -->
+    <text x="0" y="88">
+      <tspan class="quest-tag">[✦ SIDE QUEST] </tspan>
+      <tspan class="quest-title">lazycat — Docker Compose TUI Manager</tspan>
+    </text>
+    <text x="20" y="106" class="quest-desc">Stack: Python · Rich TUI · Conventional Commits • Terminal container management</text>
+
+    <!-- Quest 4 -->
+    <text x="0" y="132">
+      <tspan class="quest-tag">[⚔️ RAID LAB ] </tspan>
+      <tspan class="quest-title">Homelab Citadel Infrastructure</tspan>
+    </text>
+    <text x="20" y="150" class="quest-desc">Docker · Gitea · Ollama · Nginx Proxy Manager · Tailscale VPN · Cloudflare DDNS</text>
+  </g>
+</svg>
