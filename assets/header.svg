@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 95" width="100%" height="95">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;family=Fira+Code:wght@600;700&amp;display=swap');
@@ -11,7 +11,6 @@
         filter: drop-shadow(0 0 8px rgba(0, 255, 102, 0.35));
       }
 
-      /* Heavy glowing glitch text */
       .glitch-base {
         font-family: 'Press Start 2P', monospace;
         font-size: 16px;
@@ -59,7 +58,6 @@
         filter: drop-shadow(0 0 6px #00ff66);
       }
 
-      /* Glitch Animations */
       @keyframes glitch-anim {
         0%, 75% { transform: translate(0, 0); }
         76% { transform: translate(-3px, 1px); }
@@ -93,26 +91,24 @@
     </style>
   </defs>
 
-  <!-- Background Box with Glowing Border -->
-  <rect x="3" y="3" width="794" height="94" class="bg" />
+  <!-- Background Box -->
+  <rect x="3" y="3" width="794" height="89" class="bg" />
 
   <!-- Corner Cyber Brackets -->
-  <path d="M 3 24 L 3 3 L 24 3" class="corner" />
-  <path d="M 776 3 L 797 3 L 797 24" class="corner" />
-  <path d="M 3 76 L 3 97 L 24 97" class="corner" />
-  <path d="M 776 97 L 797 97 L 797 76" class="corner" />
+  <path d="M 3 22 L 3 3 L 22 3" class="corner" />
+  <path d="M 778 3 L 797 3 L 797 22" class="corner" />
+  <path d="M 3 73 L 3 92 L 22 92" class="corner" />
+  <path d="M 778 92 L 797 92 L 797 73" class="corner" />
 
   <!-- Chromatic Glitch Layers -->
   <g text-anchor="middle">
-    <!-- RGB split layers -->
-    <text x="400" y="44" class="glitch-red">SWEETVN // LV.21 [NGUYEN QUOC BAO]</text>
-    <text x="400" y="44" class="glitch-cyan">SWEETVN // LV.21 [NGUYEN QUOC BAO]</text>
-    <!-- Base Glowing Text -->
-    <text x="400" y="44" class="glitch-base">SWEETVN // LV.21 [NGUYEN QUOC BAO]</text>
+    <text x="400" y="42" class="glitch-red">SWEETVN // NGUYEN QUOC BAO</text>
+    <text x="400" y="42" class="glitch-cyan">SWEETVN // NGUYEN QUOC BAO</text>
+    <text x="400" y="42" class="glitch-base">SWEETVN // NGUYEN QUOC BAO</text>
 
     <!-- Subtitle -->
-    <text x="400" y="73" class="subtitle">
-      CLASS: <tspan class="highlight">BACKEND DEV</tspan> → <tspan class="highlight">DEVOPS / PLATFORM ENGINEER</tspan> • STAGE: <tspan fill="#ffffff" font-weight="700">CUSC SENIOR</tspan>
+    <text x="400" y="70" class="subtitle">
+      <tspan class="highlight">Backend Intern @ CUSC</tspan> • <tspan fill="#ffffff">Aspiring DevOps &amp; Platform Engineer</tspan>
     </text>
   </g>
 </svg>
