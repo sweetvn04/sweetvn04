@@ -25,11 +25,6 @@
 
 <br><br>
 
-<!-- DEV SETUP -->
-<img src="assets/equipped_gear.svg" width="100%" alt="Dev Setup & Environment" />
-
-<br><br>
-
 <!-- TECH STACK -->
 <h3>🎒 TECH STACK // TOOLS 🎒</h3>
 
@@ -50,26 +45,11 @@
 
 <br><br>
 
-<!-- GITHUB ANALYTICS -->
-<h3>📊 GITHUB ANALYTICS // STATS 📊</h3>
-
-<img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=sweetvn04&theme=cyberpunk&hide_border=true" width="48%" alt="Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=sweetvn04&theme=cyberpunk&show_icons=true&hide_border=true&count_private=true" width="48%" alt="Stats" />
-
-<br><br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetvn04&theme=cyberpunk&hide_border=true&layout=compact" width="45%" alt="Top Langs" />
 
 <br><br>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sweetvn04&bg_color=000000&color=00FF66&line=ffe600&point=00ffff&area=true&area_color=051a05&hide_border=true)](https://github.com/sweetvn04)
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=2" width="100%" alt="line"/>
-
-<!-- CONNECT -->
-<h3>🌐 CONNECT // SOCIALS 🌐</h3>
 
 <br>
 
@@ -78,16 +58,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-sweetvn04-000000?style=flat-square&logo=github&logoColor=00FF66)](https://github.com/sweetvn04)
 &nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/Website-sweetvn2004.id.vn-000000?style=flat-square&logo=firefox&logoColor=00FF66)](https://sweetvn2004.id.vn)
-
-<br><br>
-
-<!-- TERMINAL FOOTER -->
-```text
-┌──(sweetvn㉿arch)-[~]
-└─$ exit
-[Process completed - 0 errors, session terminated]
-```
-
-![cursor](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=1000&color=00FF66&background=00000000&center=true&vCenter=true&width=20&height=25&lines=%E2%96%88)
-
-</div>
